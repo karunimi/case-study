@@ -1,1 +1,13 @@
-This is a case study and analysis of walmart data set.
++  This is a case study and analysis of amazon data set.
+
++  In this we have taken each and every data attribute into account and analysized those information and have concluded. 
+
++  Here the analysis method have taken in a way in which  the company is benifited with the recommendations that they need
+   to improve their and acheive a Good income,production and Brand Name
++  We have include the follwing cases to conclude this analysis
+     
+        -+- Best products of amazon
+               --To make a continous production on it and get profited
+        -+-Worst products of amazon based on its Ratings,rating_counts,discounts
+                 ---To stop the production of those products and avoid loss
+        
